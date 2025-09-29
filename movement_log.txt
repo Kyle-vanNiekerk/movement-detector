@@ -11,3 +11,5 @@
 2025-09-26 09:16:09 - Movement detected (pixels changed: 14552)
 2025-09-26 09:16:09 - Movement detected (pixels changed: 11654)
 2025-09-26 09:16:10 - Movement detected (pixels changed: 12900)
+ - Movement detected (pixels changed: 12724)
+2025-09-26 09:16:30 - Movement detected (pixels changed: 12722)
